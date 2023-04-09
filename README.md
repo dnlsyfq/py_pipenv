@@ -14,3 +14,8 @@ exit // exit virtual
 ```
 pipenv install flask
 ```
+
+```
+export FLASK_APP=hello
+flask run
+```
