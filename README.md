@@ -7,7 +7,8 @@ pipenv install
 ```
 
 ```
-pipenv shell // virtual pipenv
+pipenv shell // activate virtual pipenv
+pipenv run // to run command inside 
 exit // exit virtual
 ```
 
